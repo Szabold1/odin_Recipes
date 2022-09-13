@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(227, 227, 212);
+  color: rgb(31, 31, 31);
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  padding: 0.4em;
+}
+
+.recipe {
+  font-size: large;
+  color: rgb(31, 31, 31);
+}
+
+a:hover {
+  font-weight: bold;
+}
